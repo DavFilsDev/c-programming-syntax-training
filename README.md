@@ -200,16 +200,6 @@ gcc file1.c file2.c -o program
 ./program
 ```
 
-## 🤝 Contributing
-
-While this is a personal learning repository, suggestions and corrections are welcome!
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b fix/amazing-fix`)
-3. Commit your changes (`git commit -m 'fix: correct typo in comment'`)
-4. Push to the branch (`git push origin fix/amazing-fix`)
-5. Open a Pull Request
-
 ## 📚 Resources
 
 ### Books
@@ -241,7 +231,6 @@ While this is a personal learning repository, suggestions and corrections are we
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
 **Happy Coding!** 🚀
 
