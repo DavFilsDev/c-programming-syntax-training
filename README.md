@@ -233,7 +233,6 @@ While this is a personal learning repository, suggestions and corrections are we
 ## 🎯 Goals
 
 - Complete 100+ C programming exercises
-- Build 3-5 mini-projects
 - Master memory management concepts
 - Understand system-level programming
 - Prepare for technical interviews
