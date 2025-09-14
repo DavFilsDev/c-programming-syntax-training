@@ -1,8 +1,8 @@
 /**
  * File: hello_world.c
- * Author: Your Name
+ * Author: Fanampinirina Miharisoa David FIls RATIANDRAIBE
  * Description: First C program - demonstrates basic program structure
- * Date: 2026-03-24
+ * Date: 2025-09-14
  */
 
 #include <stdio.h>  // Standard Input Output header file
@@ -21,7 +21,7 @@ int main(void)
     printf("Welcome to C Programming!\n");
     printf("This is my first program.\n");
     
-    // \n is an escape sequence for new line
+    // \n is an escape sequence for new line    
     printf("Learning\tC\tSyntax\n");  // \t adds tab space
     
     return 0;  // Return 0 indicates successful execution
